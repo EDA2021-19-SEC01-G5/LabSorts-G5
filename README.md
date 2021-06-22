@@ -1,3 +1,8 @@
+__________
+Daniel Reales (201822265) da.reales@uniandes.edu.co
+Jose Vicente Vargas (201815601) jv.vargas@uniandes.edu.co
+__________
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
